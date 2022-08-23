@@ -24,7 +24,7 @@ package introduction;
 
 
 
-	public class code1 {
+	public class CodeArray {
 
 
 

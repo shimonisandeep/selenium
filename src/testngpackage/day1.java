@@ -1,4 +1,4 @@
-package TestngPackage;
+package testngpackage;
 
 import org.testng.Assert;
 import org.testng.annotations.AfterSuite;

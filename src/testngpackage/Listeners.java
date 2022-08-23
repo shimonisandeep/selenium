@@ -1,4 +1,4 @@
-package TestngPackage;
+package testngpackage;
 
 import org.testng.ITestContext;
 import org.testng.ITestListener;

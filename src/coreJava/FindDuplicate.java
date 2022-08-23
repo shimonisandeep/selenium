@@ -11,7 +11,7 @@ public class FindDuplicate {
 
 		// TODO Auto-generated method stub
 
-		int a[] = { 6,4, 5, 56, 6, 6, 7, 8, 9, 8, 9, 0, 7 }; // String a[] = {"a","b","c","d"};
+		int a[] = { 1, 6,4, 5, 56, 6, 6, 7, 8, 9, 8, 9, 0, 7 }; // String a[] = {"a","b","c","d"};
 		Integer[] numbers = new Integer[]{ 1,  6,4, 5, 56, 6, 6, 7, 8, 9, 8, 9, 0, 7 } ;
 		
 		
